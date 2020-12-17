@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ReaderAudioSample</string>
+    <string name="error_media_not_found">No Media found</string>
+    <string name="generic_error">Unknown Error</string>
+    <string name="pause">Pause</string>
+
+    <string name="notification_channel">Now Playing</string>
+    <string name="notification_channel_description">Shows what music is currently playing in HYY</string>
+
+    <string name="duration_unknown">--:--</string>
+    <string name="duration_format">%d:%02d</string>
+    <string name="rate_half">0.5倍</string>
+    <string name="rate_normal">1倍</string>
+    <string name="rate_one_half">1.5倍</string>
+    <string name="rate_two">2倍</string>
+</resources>
